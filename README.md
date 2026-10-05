@@ -2,7 +2,7 @@
 
 ### Computer Science & Engineering | Java | Full Stack Development | AI/ML
 
-I'm a Computer Science and Engineering graduate passionate about building
+I'm a Computer Science and Engineering student passionate about building
 practical software solutions using Java, Python, web technologies, and
 Machine Learning.
 
@@ -16,7 +16,7 @@ Machine Learning.
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -30,16 +30,17 @@ Machine Learning.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Database
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### AI / Machine Learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -51,8 +52,9 @@ Machine Learning.
 ## 🚀 Featured Projects
 
 ### 🌱 Hydroponic AI Simulator
-AI-powered smart farming simulation system that predicts plant growth
-and crop yield using environmental parameters.
+
+AI-powered smart farming system that predicts plant growth and crop
+yield using environmental parameters.
 
 **Tech:** Python • Flask • Machine Learning • MongoDB
 
@@ -60,11 +62,22 @@ and crop yield using environmental parameters.
 
 ---
 
-### 🛡️ AI-Powered Security Monitoring
+### 🛡️ AI-Powered Security Monitoring System
+
 A real-time security monitoring system that analyzes Windows Event Viewer
-logs and detects potentially suspicious activity using machine learning.
+logs and uses Machine Learning to identify potentially suspicious activity.
 
 **Tech:** Python • Machine Learning • Windows Event Logs
+
+---
+
+### 🧓 Real-Time Human Fall Detection Using TinyML
+
+A real-time human fall detection system designed for elderly safety using
+TinyML and Edge Computing. The system detects potential falls and enables
+faster response in emergency situations.
+
+**Tech:** TinyML • Edge Computing • Machine Learning • Arduino
 
 ---
 
@@ -72,9 +85,19 @@ logs and detects potentially suspicious activity using machine learning.
 
 - ☕ Java
 - 🧩 Data Structures & Algorithms
+- 🌱 Spring Boot
 - 🗄️ SQL & Database Design
-- 🤖 Machine Learning
 - 🌐 Full Stack Development
+- 🤖 Machine Learning
+
+---
+
+## 🎯 Career Focus
+
+I'm currently preparing for Software Development Engineer roles with a
+focus on:
+
+**Java → DSA → Backend Development → Spring Boot → SQL → REST APIs**
 
 ---
 
